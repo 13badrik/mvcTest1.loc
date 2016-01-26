@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6125796-2d63-4298-807c-1dfef5e378a7" name="apache_wamp" url="http://localhost/qwer/new">
+        <fileTransfer mountedRoot="C:\server\apache\htdocs\qwer\new" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
